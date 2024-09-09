@@ -11,6 +11,8 @@ nav_order: 5
 
 ---
 
+> Later done, 以下是来自GPT的未编辑内容。
+
 # L05 Pipelining II
 
 ## Deeper Pipelines: MIPS R4000
